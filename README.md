@@ -7,7 +7,6 @@ The basics of bash scripting
 ```
 git clone https://github.com/eah13/bashsh.git
 cd bashsh
-chmod +x bash.sh
 source bash.sh
 ```
 The script will take it from there.
